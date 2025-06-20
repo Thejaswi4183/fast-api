@@ -30,9 +30,6 @@ venv/
 *.egg
 *.egg-info/
 
-# Render or deployment
-render.yaml
-
 # FastAPI cache
 *.db
 __pypackages__/
